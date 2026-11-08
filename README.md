@@ -9,7 +9,9 @@
 
 ### Блок-схема алгоритма
 
-<img width="1131" height="1812" alt="221" src="https://github.com/user-attachments/assets/39f05f70-15bb-4d5e-acf0-10080a9db18b" />
+![Блок-схема алгоритма](flowchart.svg)
+
+[Открыть блок-схему в draw.io](https://app.diagrams.net/?lang=ru#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FDregMenlion%2Flab-4%2Fmaster%2Fflowchart.drawio)
 
 # Информация о разработчике
 
